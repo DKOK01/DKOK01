@@ -2,7 +2,6 @@
   
 # Hey there! 👋 I'm Ayman Sadeq
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=42+Network+Student+%F0%9F%8E%93;C+%26+C%2B%2B+Developer+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A9;Currently+on+Milestone+5+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br>
 
@@ -14,34 +13,11 @@
 
 ## 🎯 About Me
 
-```c
-typedef struct s_ayman
-{
-    char    *name;
-    char    *school;
-    char    *location;
-    int     milestone;
-    char    **languages;
-    char    **interests;
-}   t_ayman;
-
-t_ayman ayman = {
-    .name = "Ayman Sadeq",
-    .school = "42 Network",
-    .location = "Morocco 🇲🇦",
-    .milestone = 5,
-    .languages = (char *[]){"C", "C++", NULL},
-    .interests = (char *[]){"Low-level Programming", "System Programming", "Problem Solving", NULL}
-};
-```
-
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 - 🎓 **Student at** [42 Network](https://42.fr/)
-- 🔭 **Currently working on** Milestone 5 projects
-- 🌱 **Learning** Advanced C++ & System Programming
-- 💡 **Passionate about** Clean code & efficient algorithms
-- ⚡ **Fun fact:** I debug with `printf` like a true 42 student 😄
+- 🌱 **Learning** 
+- 💡 **Passionate about** 
 
 <br clear="right"/>
 
